@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atulit253.github.io/readme-a1pnh0/sitemap.xml
